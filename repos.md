@@ -1,4 +1,6 @@
-# Repos
+# Repos in the bpo universe
+
+This document attempts to capture the repos associated with bugs.python.org.
 
 ## Roundup - Upstream Code Base
 
@@ -41,3 +43,10 @@ The diff between the Python fork and Upstream is now relatively small.
 
 - Jython <https://bitbucket.org/account/user/python/projects/BPO/tracker/jython>
 - hosting of roundup's website and tracker <https://bitbucket.org/account/user/python/projects/BPO/tracker/roundup>
+
+
+---
+
+## Development Bootstrap with Docker
+
+Docker image docker-bpo: <https://github.com/python/docker-bpo>
