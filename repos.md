@@ -25,6 +25,7 @@ Official Python Roundup fork with modifications
 
 This fork of upstream roundup includes the base Roundup project with additional
 extensions for GitHub integration to PRs, etc.
+- Roundup upstream bugs-python-org branch <https://hg.python.org/tracker/roundup/shortlog/bugs.python.org>
 
 The diff between the Python fork and Upstream is now relatively small.
 
