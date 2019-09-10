@@ -35,3 +35,9 @@ Python wiki for Tracker - out of date: <https://wiki.python.org/moin/TrackerDeve
 
 
 ### Set Up by Components
+
+Running tests from the repo::
+
+```
+python2 run_tests.py
+```
