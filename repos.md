@@ -1,6 +1,7 @@
-# Repos in the bpo universe
+# Repos of bpo
 
 This document attempts to capture the repos associated with bugs.python.org.
+It is ordered in a rough progression from vanilla upstream to customized bpo.
 
 ## Roundup - Upstream Code Base
 
@@ -35,7 +36,7 @@ The diff between the Python fork and Upstream is now relatively small.
 
 <https://bitbucket.org/account/user/python/projects/BPO/rietveld>
 
-### bpo instance - deployment
+## bpo instance - used for deployment
 
 <https://bitbucket.org/account/user/python/projects/BPO/tracker/cpython>
 

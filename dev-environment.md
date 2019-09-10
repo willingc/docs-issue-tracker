@@ -1,10 +1,12 @@
-# Setting up a Dev Environment
+# Dev Environment
+
+This section describes setting up a dev environment.
 
 ## Bootstap using Docker
 
-Docker image docker-bpo: https://github.com/python/docker-bpo
+Docker image docker-bpo: <https://github.com/python/docker-bpo>
 
-Docker Hub image: https://hub.docker.com/r/python/docker-bpo
+Docker Hub image: <https://hub.docker.com/r/python/docker-bpo>
 
 Another docker image (not sure its purpose - openshift deploy?) <https://hub.docker.com/r/python/bpo-builder>
 
@@ -29,5 +31,7 @@ To view the user interface: <http://localhost:9999>
 ## From scratch
 
 Python wiki for Tracker - out of date: <https://wiki.python.org/moin/TrackerDevelopment>
+
+
 
 ### Set Up by Components

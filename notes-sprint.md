@@ -1,4 +1,4 @@
-# Notes from Core Sprint
+# London Core Sprint
 
 ## Issues Brainstorming and Resources
 
