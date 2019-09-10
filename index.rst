@@ -3,13 +3,12 @@ Python Issue Tracking
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   service
+   issues
    repos
    sre-deployment
    dev-environment
-   notes-core-sprint
+   notes-sprint.md
 
 
 Indices and tables

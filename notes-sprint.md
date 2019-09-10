@@ -4,10 +4,10 @@
 
 ##  Scripts and Proof of concepts
 
-- [Search UI using JSON]()
-- [Search personal issues]()
-- [XML RPC to Jupyter script]()
-- [XMLRPC docs](http://roundup.sourceforge.net/docs/xmlrpc.html)
+* [Search UI using JSON]()
+* [Search personal issues]()
+* [XML RPC to Jupyter script]()
+* [XMLRPC docs](http://roundup.sourceforge.net/docs/xmlrpc.html)
 
 ## Priorities
 
@@ -82,7 +82,7 @@ Pros:
 - Familiar workflow for long time contributors
 - Better email support than GitHub for personal issue workflows
 - Existing proof of concepts that we could add for usability as standalone web pages to the existing bpo navigation
-    -  [Search UI using JSON]()
+    - [Search UI using JSON]()
     - [Search personal issues]()
 - Addition of GitHub OAuth for user login
 

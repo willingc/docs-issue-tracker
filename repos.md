@@ -1,15 +1,42 @@
 # Repos
 
-## Upstream Roundup
+## Roundup - Upstream Code Base
 
-Official
+This is the base Roundup project.
 
-Mirror
+Official Sourceforge: <https://sourceforge.net/p/roundup/code/ci/default/tree/>
 
-## Python Roundup Modification
+- Current release on PyPI: 1.6.0
+- Head of master (2.0dev) includes REST, Python 3 support
 
-## bpo instance
+Mirror on GitHub: <https://github.com/roundup-tracker/roundup>
 
+Mirror is kept up-to-date.
 
-## Docker Bootstrap of Development Environment
+## Roundup Python - modifications and extensions
 
+Bitbucket Project has several repos containing roundup-python-fork, rietveld, and instances
+Project Organization: <https://bitbucket.org/account/user/python/projects/BPO>
+
+### Roundup - Python fork
+
+Official Python Roundup fork with modifications
+- Repo: <https://bitbucket.org/account/user/python/projects/BPO/roundup>
+
+This fork of upstream roundup includes the base Roundup project with additional
+extensions for GitHub integration to PRs, etc.
+
+The diff between the Python fork and Upstream is now relatively small.
+
+### Rietveld - review tool
+
+<https://bitbucket.org/account/user/python/projects/BPO/rietveld>
+
+### bpo instance - deployment
+
+<https://bitbucket.org/account/user/python/projects/BPO/tracker/cpython>
+
+### Additional instances hosted for others
+
+- Jython <https://bitbucket.org/account/user/python/projects/BPO/tracker/jython>
+- hosting of roundup's website and tracker <https://bitbucket.org/account/user/python/projects/BPO/tracker/roundup>
