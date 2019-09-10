@@ -1,0 +1,5 @@
+name: issue-management
+type: sphinx
+requirements_file: requirements.txt
+python:
+  version: 3
