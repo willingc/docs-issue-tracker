@@ -17,6 +17,12 @@ git clone https://github.com/python/docker-bpo.git
 cd docker-bpo
 docker pull docker.io/python/docker-bpo
 ./pull.sh
+# docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
+# --rm: clean up container on exit
+# -it: interactive tty
+# -p: publish container port
+# -v: volume to mount
+# IMAGE: docker.io/python/docker-bpo
 docker run --rm -it -p 9999:9999 -v `pwd`:/opt/tracker docker.io/python/docker-bpo
 
 # After container mounts the volume
