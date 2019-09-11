@@ -46,4 +46,9 @@ Running tests from the repo::
 
 ```
 python2 run_tests.py
+
 ```
+
+### Customizing Roundup
+
+<http://roundup.sourceforge.net/docs/customizing.html>
